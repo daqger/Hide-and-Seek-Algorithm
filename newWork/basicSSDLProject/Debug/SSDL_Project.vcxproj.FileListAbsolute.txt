@@ -1,0 +1,2 @@
+C:\Users\bwyen\Documents\cpp-for-lazy-programmers-master\cpp-for-lazy-programmers-master\newWork\basicSSDLProject\Debug\SDL Hide and Seek Algorithm Project.exe
+C:\Users\bwyen\Documents\cpp-for-lazy-programmers-master\cpp-for-lazy-programmers-master\newWork\basicSSDLProject\Debug\SDL Hide and Seek Algorithm Project.pdb
